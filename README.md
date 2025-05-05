@@ -34,7 +34,6 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 - [poetry](https://python-poetry.org/) - Python dependency management and packaging
 - [jupyterlab](https://jupyter.org/) - Web-based interactive development environment
 - [VSCode](https://code.visualstudio.com/) - Popular code editor with great Python support
-- [pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical analysis indicators as Pandas extensions
 - [mplfinance](https://github.com/matplotlib/mplfinance) - matplotlib utilities for financial charts
 - [finplot](https://github.com/highfestiva/finplot) - Fast & clean financial plotting
 
@@ -90,7 +89,6 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 - [IBKR Native API](https://interactivebrokers.github.io/tws-api/introduction.html) - Official IB API
 - [Coinbase Pro](https://github.com/danpaquin/coinbasepro-python) - Coinbase exchange API
 - [Kraken API](https://github.com/veox/python3-krakenex) - Kraken exchange API
-- [FTX API](https://github.com/ftexchange/ftx) - FTX exchange API
 - [Oanda API](https://github.com/oanda/v20-python) - Forex and CFD trading
 
 ---
@@ -126,10 +124,13 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 > The best content to deepen your understanding.
 
 - ⭐ [Python for Traders Masterclass](https://skool.com/python-for-traders-masterclass) – Build real bots in 30 days.
-- [Adv. Algorithmic Trading – E. Chan]
-- [Machine Learning for Asset Managers – M. Lopez de Prado]
-- [QuantInsti](https://www.quantinsti.com/)
-- [Coursera: Machine Learning for Trading](https://www.coursera.org/learn/machine-learning-trading)
+- [Algorithmic Trading: Winning Strategies and Their Rationale – E. Chan](https://www.amazon.com/Algorithmic-Trading-Winning-Strategies-Rationale/dp/1118460146)
+- [Quantitative Trading: How to Build Your Own Algorithmic Trading Business – E. Chan](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064)
+- [Machine Learning for Asset Managers – M. Lopez de Prado](https://www.amazon.com/Machine-Learning-Asset-Managers-Elements/dp/1108792898)
+- [Python for Finance: Mastering Data-Driven Finance – Y. Hilpisch](https://www.amazon.com/Python-Finance-Mastering-Data-Driven/dp/1492024333)
+- [QuantInsti](https://www.quantinsti.com/) - Professional algo trading certification
+- [Udacity Artificial Intelligence for Trading](https://www.udacity.com/course/ai-for-trading--nd880) - AI/ML focused trading course
+- [Hudson & Thames](https://hudsonthames.org/) - High-quality quantitative research and courses
 
 ---
 
@@ -179,6 +180,10 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 Join our free [Python for Traders](https://skool.com/python-for-traders) community and get:
 
 - ✅ Step-by-step strategy building from idea to execution
-- ✅ Live broker integration
+- ✅ Live broker integration 
 - ✅ Downloadable templates and backtest code
 - ✅ A private community of serious builders
+
+No fluff, no theory - just practical code and strategies you can use today. Our community has helped hundreds of traders go from zero to live trading. 
+
+### >> [Join us and start building today!](https://skool.com/python-for-traders)
