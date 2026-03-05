@@ -58,6 +58,7 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 - [EOD Historical Data](https://eodhistoricaldata.com/) - Global financial data
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial statements API
 - [Marketstack](https://marketstack.com/) - Real-time and historical market data
+- [ChartScout](https://Chartscout.io/) - Real time chart patterns with free tier
 
 ---
 
