@@ -187,3 +187,7 @@ Join our free [Python for Traders](https://skool.com/python-for-traders) communi
 No fluff, no theory - just practical code and strategies you can use today. Our community has helped hundreds of traders go from zero to live trading. 
 
 ### >> [Join us and start building today!](https://skool.com/python-for-traders)
+
+## AI Trading Bots
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
