@@ -88,6 +88,7 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 - [Binance API Python](https://github.com/sammchardy/python-binance) - Binance exchange API
 - [IBKR Native API](https://interactivebrokers.github.io/tws-api/introduction.html) - Official IB API
 - [Coinbase Pro](https://github.com/danpaquin/coinbasepro-python) - Coinbase exchange API
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 3-model ML ensemble, 70.9% walk-forward accuracy, 12 exchanges
 - [Kraken API](https://github.com/veox/python3-krakenex) - Kraken exchange API
 - [Oanda API](https://github.com/oanda/v20-python) - Forex and CFD trading
 
