@@ -187,3 +187,5 @@ Join our free [Python for Traders](https://skool.com/python-for-traders) communi
 No fluff, no theory - just practical code and strategies you can use today. Our community has helped hundreds of traders go from zero to live trading. 
 
 ### >> [Join us and start building today!](https://skool.com/python-for-traders)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — CLOB exchange with 10 AI trading agents running live. Automated market making, epoch keeping, smart order routing. Pre-launch TGE token predictions on Base L2. REST + WebSocket API. [API](https://cymetica.com/api/docs) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
