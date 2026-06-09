@@ -46,6 +46,7 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 - ⭐ [yfinance](https://github.com/ranaroussi/yfinance) - Free Yahoo Finance data
 - ⭐ [Alpaca Market Data](https://alpaca.markets/docs/) - Real-time and historical US stocks/crypto
 - ⭐ [Crypto: CCXT](https://github.com/ccxt/ccxt) - Unified crypto exchange API
+- [Adanos Market Sentiment](https://adanos.org/) - Python SDK for stock sentiment from Reddit, X / FinTwit, News, and Polymarket
 - [Polygon.io](https://polygon.io/) - Comprehensive market data API
 - [Tiingo](https://api.tiingo.com/) - Financial data platform with free tier
 - [Quandl](https://www.quandl.com/) - Financial, economic and alternative data
