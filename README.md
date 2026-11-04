@@ -69,6 +69,7 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 - [bt](https://pmorissette.github.io/bt/) - Flexible backtesting for Python
 - [vectorbt](https://github.com/polakowo/vectorbt) - Fast vectorized backtesting
 - [Backtrader](https://github.com/mementum/backtrader) - Popular event-driven framework
+- [OpenBacktesting](https://github.com/lucidcog/openbacktesting) - Single-asset historical backtesting with pandas statistics, indicators, and parameter optimization
 - [QuantConnect Lean](https://github.com/QuantConnect/Lean) - Production-grade engine
 - [fastquant](https://github.com/enzoampil/fastquant) - Backtest strategies in one line
 - [PyAlgoTrade](https://github.com/gbeced/pyalgotrade) - Event-driven algorithmic trading
