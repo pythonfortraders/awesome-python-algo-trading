@@ -92,6 +92,7 @@ We only include tools, libraries, and projects worth your time. No bloated lists
 - [Coinbase Pro](https://github.com/danpaquin/coinbasepro-python) - Coinbase exchange API
 - [Kraken API](https://github.com/veox/python3-krakenex) - Kraken exchange API
 - [Oanda API](https://github.com/oanda/v20-python) - Forex and CFD trading
+- [TickerAll](https://tickerall.com) - Hosted MetaTrader 5 & MT4 broker API with a Python SDK (`pip install tickerall`) — place trades and stream live ticks with no local terminal. Free on demo accounts.
 
 ---
 
